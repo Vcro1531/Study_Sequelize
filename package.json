@@ -1,0 +1,30 @@
+{
+	"name": "learn-sequelize",
+	"version": "0.0.1",
+	"description": "Learn-sequelize",
+	"main": "app.js",
+	"dependencies": {
+		"express": "^4.17.1",
+		"morgan": "^1.10.0",
+		"mysql2": "^2.3.0",
+		"nunjucks": "^3.2.3",
+		"sequelize": "^6.6.5",
+		"sequelize-cli": "^6.2.0"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.13"
+	},
+	"scripts": {
+		"start": "nodemon app"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/dsmjimin/Learn-sequelize.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/dsmjimin/Learn-sequelize/issues"
+	},
+	"homepage": "https://github.com/dsmjimin/Learn-sequelize#readme"
+}
