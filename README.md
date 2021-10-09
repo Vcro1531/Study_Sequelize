@@ -1,1 +1,1 @@
-Learn-sequelize
+Learn-sequelize(+MySQL)
